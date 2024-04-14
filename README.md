@@ -1,5 +1,5 @@
 # QuadB_internship_test
-
+ 
 Questions:
 Implement a function that checks whether a given string is a palindrome or not.
 Given a sorted array of integers, implement a function that returns the index of the first occurrence of a given number.
